@@ -1,0 +1,7 @@
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimFactors\bin\Debug\PrimFactors.exe.config
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimFactors\bin\Debug\PrimFactors.exe
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimFactors\bin\Debug\PrimFactors.pdb
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimFactors\obj\Debug\PrimFactors.exe
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimFactors\obj\Debug\PrimFactors.pdb
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimFactors\bin\Debug\nunit.framework.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimFactors\bin\Debug\nunit.framework.xml

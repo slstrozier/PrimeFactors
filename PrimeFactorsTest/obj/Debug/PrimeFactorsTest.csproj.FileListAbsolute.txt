@@ -1,0 +1,16 @@
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\PrimeFactorsTest.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\PrimeFactorsTest.pdb
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\nunit.framework.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\PrimeFactorGenerator.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\PrimeFactorGenerator.pdb
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\bin\Debug\nunit.framework.xml
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\obj\Debug\PrimeFactorsTest.csprojResolveAssemblyReference.cache
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\obj\Debug\PrimeFactorsTest.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\PrimeFactorsTest\obj\Debug\PrimeFactorsTest.pdb

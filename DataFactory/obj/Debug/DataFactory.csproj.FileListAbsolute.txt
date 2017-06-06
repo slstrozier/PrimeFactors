@@ -1,0 +1,5 @@
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\DataFactory\bin\Debug\DataFactory.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\DataFactory\bin\Debug\DataFactory.pdb
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\DataFactory\obj\Debug\DataFactory.csprojResolveAssemblyReference.cache
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\DataFactory\obj\Debug\DataFactory.dll
+c:\users\slstr_000\documents\visual studio 2017\Projects\PrimFactors\DataFactory\obj\Debug\DataFactory.pdb
